@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Selenium Automation Testing conducted by Epam.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me [Facebook](www.facebook.com/@HeyHumanBeing)  [YouTube](www.youtube.com/@thevloggeranil)
-- 🔗 My social media HANDLING:: [थारुथरुनी](https://www.facebook.com/followtharutharuni/) And [TharuTharuni](https://www.youtube.com/@tharu___tharuni)
+- 🔗 Reach my social media HANDLING:: [थारुथरुनी](https://www.facebook.com/followtharutharuni/) And [TharuTharuni](https://www.youtube.com/@tharu___tharuni)
 
 <!---
 anilchaudhary449/anilchaudhary449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
