@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Cyber Security.
 - 🌱 I’m currently learning Selenium Automation Testing conducted by Epam.
 - 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me [Facebook](www.facebook.com/@HeyHumanBeing)  [YouTube](www.youtube.com/@thevloggeranil)
+- 📫 How to reach me [Facebook](www.facebook.com/@HeyHumanBeing) / [YouTube](www.youtube.com/@thevloggeranil)
 - 🔗 Reach my social media HANDLING:: [थारुथरुनी](https://www.facebook.com/followtharutharuni/) And [TharuTharuni](https://www.youtube.com/@tharu___tharuni)
 
 <!---
