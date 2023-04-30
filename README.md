@@ -11,7 +11,7 @@
 
 ### 🔗Languages & Tech
 
-![](https://i.gifer.com/8Rhp.gif)
+![gif](https://i.gifer.com/8Rhp.gif)
 ![image](https://user-images.githubusercontent.com/87251166/235371646-b0616c05-7a00-4c98-a2c4-babfcaac9662.png)
 ![image](https://user-images.githubusercontent.com/87251166/235371655-28dcf3de-2de2-44af-a0eb-6bc896a988a0.png)
 ![image](https://user-images.githubusercontent.com/87251166/235371661-1f38fdff-5a73-41ec-9462-200c4211b80d.png) 
@@ -20,7 +20,6 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=anilchaudhary449
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anilchaudhary449&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilchaudhary449&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
