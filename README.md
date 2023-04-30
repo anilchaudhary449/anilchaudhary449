@@ -11,8 +11,9 @@
 
 ### 🔗Languages & Tech
 
-![gif](https://user-images.githubusercontent.com/i.gifer.com/8Rhp.gif)
-![image](https://user-images.githubusercontent.com/87251166/235371646-b0616c05-7a00-4c98-a2c4-babfcaac9662.png)
+![(https://user-images.githubusercontent.com/i.gifer.com/8Rhp.gif)]
+![image](https://user-images.githubusercontent.com/8725116
+6/235371646-b0616c05-7a00-4c98-a2c4-babfcaac9662.png)
 ![image](https://user-images.githubusercontent.com/87251166/235371655-28dcf3de-2de2-44af-a0eb-6bc896a988a0.png)
 ![image](https://user-images.githubusercontent.com/87251166/235371661-1f38fdff-5a73-41ec-9462-200c4211b80d.png) 
 ![image](https://user-images.githubusercontent.com/87251166/235371676-cd45c842-4d95-4f86-8831-d6ee345548a8.png) 
