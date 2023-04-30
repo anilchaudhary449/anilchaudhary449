@@ -9,6 +9,6 @@
 anilchaudhary449/anilchaudhary449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/87251166/235371131-06f11fd4-d693-4efa-b70d-f1e6d0d5a321.png)  ![image](https://user-images.githubusercontent.com/87251166/235371230-fc0970d2-55df-4ec6-8c87-cb5dc6a9a167.png)
+![d1oawem6](https://user-images.githubusercontent.com/87251166/235371285-eb45aaf3-999a-4a3b-9077-b61b46a779d7.png)  ![image](https://user-images.githubusercontent.com/87251166/235371230-fc0970d2-55df-4ec6-8c87-cb5dc6a9a167.png)
 
 
