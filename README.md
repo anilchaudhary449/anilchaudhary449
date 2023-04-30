@@ -20,10 +20,7 @@
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=anilchaudhary449
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anilchaudhary449&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilchaudhary449&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anilchaudhary449&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilchaudhary449&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 anilchaudhary449/anilchaudhary449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
