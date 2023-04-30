@@ -1,4 +1,4 @@
-<h1>🔗Head Lines<h1> 
+<h1>🔗Head Lines</h1> 
 - 👋 Hi, I’m @anilchaudhary449
 - 👀 I’m interested in Web development and Cyber Security.
 - 🌱 I’m currently learning Selenium Automation Testing conducted by Epam.
@@ -9,20 +9,16 @@
 
 <h1>🔗Languages & Tech</h1>
 
-
-
-
-
-
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/87251166/235371646-b0616c05-7a00-4c98-a2c4-babfcaac9662.png) ![image](https://user-images.githubusercontent.com/87251166/235371655-28dcf3de-2de2-44af-a0eb-6bc896a988a0.png)![image](https://user-images.githubusercontent.com/87251166/235371661-1f38fdff-5a73-41ec-9462-200c4211b80d.png) ![image](https://user-images.githubusercontent.com/87251166/235371676-cd45c842-4d95-4f86-8831-d6ee345548a8.png) 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=anilchaudhary449
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anilchaudhary449&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilchaudhary449&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 anilchaudhary449/anilchaudhary449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
