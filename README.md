@@ -10,6 +10,7 @@
 ---
 
 ### 🔗Languages & Tech
+![image](https://i.gifer.com/8Rhp.gif)
 
 ![image](https://user-images.githubusercontent.com/87251166/235371646-b0616c05-7a00-4c98-a2c4-babfcaac9662.png)
 ![image](https://user-images.githubusercontent.com/87251166/235371655-28dcf3de-2de2-44af-a0eb-6bc896a988a0.png)
