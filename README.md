@@ -1,9 +1,8 @@
 ### 🔗Head Lines
 
 - 👋 Hi, I’m @anilchaudhary449.<br>
-- 👀 I’m interested in Web development and Cyber Security.<br>
 - 🌱 I’m currently learning Selenium Automation Testing conducted by Epam.<br>
-- 💞️ I’m looking to collaborate on Web Development.<br>
+- 💞️ I’m looking to collaborate, if someone finds me to be fittable.<br>
 - 📫 How to reach me [LinkedIn](http://linkedin.com/in/anilchaudhary5620) <br>
 ---
 
