@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @anilchaudhary449.<br>
 - 🌱 I’m currently learning Selenium Automation Testing.<br>
 - 💞️ I’m looking to collaborate, if someone finds me to be fittable.<br>
-- 📫 How to reach me [LinkedIn](http://linkedin.com/in/anilchaudhary5620) <br>
+- 📫 How to reach me [LinkedIn](http://linkedin.com/in/anil--chaudhary) <br>
 ---
 
 ### 🔗Languages & Tech
